@@ -1,0 +1,24 @@
+{
+  "feedback": [
+    {
+      "id": 2,
+      "rating": 9,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae."
+    },
+    {
+      "id": 3,
+      "rating": 8,
+      "text": "Lorem ipsum dolor sit amet consectetur adipisicing elit. consequuntur vel vitae commodi alias voluptatem est voluptatum ipsa quae."
+    },
+    {
+      "id": 11462,
+      "rating": 10,
+      "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit, arcu justo porta morbi purus sociis, lobortis praesent cras imperdiet torquent egestas"
+    },
+    {
+      "id": 36815,
+      "rating": 10,
+      "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit, arcu justo porta morbi purus sociis, lobortis praesent cras imperdiet torquent egestas"
+    }
+  ]
+}
